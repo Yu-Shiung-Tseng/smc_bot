@@ -1,0 +1,18 @@
+Environments
+
+.env
+.venv/
+env/
+venv/
+
+Python cache
+
+pycache/
+*.py[cod]
+*$py.class
+
+Data & Logs
+
+data/
+*.log
+*.csv
